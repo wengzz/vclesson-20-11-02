@@ -9,3 +9,7 @@ this is a unique peace of work
 # Introduction
 
 this thesis is about how stars move between each other
+
+# Results
+
+several previously unseen  results have been discovered from the experiments
