@@ -10,6 +10,18 @@ this is a unique peace of work
 
 this thesis is about how stars move between each other
 
+<<<<<<< HEAD
 # Results
 
 several previously unseen  results have been discovered from the experiments
+=======
+# Methodology
+
+A novel experiment independently designed is carried to validify the String Theory
+
+#Conclusion
+
+This piece of work reveals the answer to a very critical question in High Energy Physics field
+>>>>>>> 909f31c6343246dad0f2fdf56d9d156d7b7487c9
+
+Updates received and agreed upon
